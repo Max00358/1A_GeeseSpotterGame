@@ -6,9 +6,5 @@ Welcome to GeeseSpotter!
 Please enter the x dimension: 5
 Please enter the y dimension: 5
 Please enter the number of geese: 2
-*****
-*****
-*****
-*****
-*****
+
 Please enter the action ([S]how; [M]ark; [R]estart; [Q]uit): S
